@@ -16,5 +16,5 @@ Em testes de unidade é interessente separar os testes para cada comportamento q
 Para evitar o uso excessivo de comentários no código para explicar o cenário de testes podemos adotar um estilo de nomeclatura que torne os nomes dos testes descritivos
 
 ```
-[nomeDoMetodo][estadoDoTeste][resultadoEsperado]
+[nomeDoMetodo]_[estadoDoTeste]_[resultadoEsperado]
 ```
