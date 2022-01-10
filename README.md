@@ -17,4 +17,5 @@ Para evitar o uso excessivo de comentários no código para explicar o cenário 
 
 ```
 [nomeDoMetodo]_[estadoDoTeste]_[resultadoEsperado]
+deve_[resultadoEsperado]_[estadoDeTeste]
 ```
