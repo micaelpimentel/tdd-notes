@@ -19,3 +19,5 @@ Para evitar o uso excessivo de comentários no código para explicar o cenário 
 [nomeDoMetodo]_[estadoDoTeste]_[resultadoEsperado]
 deve_[resultadoEsperado]_[estadoDeTeste]
 ```
+
+Ao utilizar properties de classe, a cada execução de teste é criada uma instância nova da classe de teste.
